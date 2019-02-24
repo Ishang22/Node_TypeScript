@@ -63,20 +63,24 @@ export default class MasterController {
       let   postData : any;
 
 
-      for (const value of step1)
+      for (let i=0;i<step1.length;i++)
       {
-        step2 = await service.getUserPosts(value.id);
+        (async (k)=>{
+          step2 = await service.getUserPosts(step1[k].id);
 
-        for(const posts of step2)
-        {
-          step3         = await service.getPostComment(posts.id);
-          posts.comment = step3;
-          mongoUrl       = "mongodb://localhost:27017/User"+ value.id;
-          conn           = await mongoose.connect(mongoUrl, { useNewUrlParser: true });
-          model1         = conn.model('Post'+value.id, Schema);
-          postData       = await new model1(posts);
-          postData.save();
-        }
+          console.log(step1[k].id);
+          for(const posts of step2)
+          {
+            step3         = await service.getPostComment(posts.id);
+            posts.comment = step3;
+            mongoUrl       = "mongodb://localhost:27017/User"+ step1[k].id;
+            conn           = await mongoose.connect(mongoUrl, { useNewUrlParser: true });
+            model1         = conn.model('Post'+step1[k].id, Schema);
+            postData       = await new model1(posts);
+            postData.save();
+          }
+        })(i);
+
       }
 
       res.status(200).send({
