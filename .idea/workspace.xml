@@ -31,7 +31,7 @@
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="json" value="21" />
-          <entry key="md" value="5" />
+          <entry key="md" value="6" />
           <entry key="ts" value="122" />
         </counts>
       </usages-collector>
@@ -40,7 +40,7 @@
           <entry key="Image" value="5" />
           <entry key="JSON" value="15" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="TypeScript" value="122" />
           <entry key="tsconfig" value="6" />
         </counts>
@@ -98,6 +98,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Assignnent_2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Assignnent_2/tslint.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -220,22 +229,22 @@
       <option name="presentableId" value="Default" />
       <updated>1550954197818</updated>
       <workItem from="1550954199067" duration="33096000" />
-      <workItem from="1551025128786" duration="6797000" />
+      <workItem from="1551025128786" duration="7097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39893000" />
+    <option name="totallyTimeSpent" value="40193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.49247605" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.49247605" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -423,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Assignnent_2/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Assignnent_2/src/apiV1/master/master.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -464,6 +466,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Assignnent_2/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Assignnent_2/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -471,10 +480,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Assignnent_2/tslint.json">
+    <entry file="file://$PROJECT_DIR$/../Assignnent_2/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="59" />
         </state>
       </provider>
     </entry>
