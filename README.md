@@ -17,7 +17,21 @@
 
 3. Start the app using `npm run dev`
 
-4. After that, go to: `http://localhost:3000/v1/users`
+4.
+1. A RESTful API to fetch users (all users)
+http://localhost:3000/v1/master/fetchAllUsers
+
+2. A RESTful API to fetch user posts; (all user-posts)
+http://localhost:3000/v1/master/fetchAllPost
+
+3. An API to update user avatar. (user-image)
+http://localhost:3000/v1/master/addUserImage
+
+LINK TO ACCESS THE API's
+https://www.getpostman.com/collections/ce34247f135eae39d336
+
+LINK TO ACCESS THE CODE
+https://github.com/Ishang22/Node_TypeScript
 
 5. For image storage i use local storage in images folder
 
