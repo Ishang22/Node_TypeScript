@@ -43,5 +43,8 @@ export default class UserObject {
   ]
   };
 
+  public Master = {
+    dbCount  : Number
+  };
 };
 

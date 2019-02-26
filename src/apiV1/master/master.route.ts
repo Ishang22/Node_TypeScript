@@ -12,6 +12,8 @@ user.get('/fetchAllPost', controller.fetchAllPost);
 
 user.post('/addUserImage',multipartMiddleware, controller.addUserImage);
 
+user.get('/getAllUsers', controller.getAllUsers);
 
+user.get('/getAllPost', controller.getAllPost);
 
 export default user;
