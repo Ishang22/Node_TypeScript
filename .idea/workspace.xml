@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3de738c9-b905-49df-83a0-b3201c8c5040" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apiV1/master/master.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/apiV1/master/master.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apiV1/master/master.route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/apiV1/master/master.route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apiV1/master/master.template.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/apiV1/master/master.template.ts" afterDir="false" />
-    </list>
+    <list default="true" id="3de738c9-b905-49df-83a0-b3201c8c5040" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -289,16 +284,15 @@
       <workItem from="1550954199067" duration="33096000" />
       <workItem from="1551025128786" duration="7350000" />
       <workItem from="1551033386313" duration="1949000" />
-      <workItem from="1551153072826" duration="3299000" />
+      <workItem from="1551153072826" duration="3836000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45694000" />
+    <option name="totallyTimeSpent" value="46231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />

@@ -26,11 +26,17 @@ http://localhost:3000/v1/master/fetchAllPost
 7. An API to update user avatar. (user-image)
 http://localhost:3000/v1/master/addUserImage
 
-8. LINK TO ACCESS THE API's
+8. An API to get all Users.
+http://localhost:3000/v1/master/getAllUsers
+
+9. An API to get all post.
+http://localhost:3000/v1/master/getAllPost
+
+10. LINK TO ACCESS THE API's
 https://www.getpostman.com/collections/ce34247f135eae39d336
 
-9. LINK TO ACCESS THE CODE
+11. LINK TO ACCESS THE CODE
 https://github.com/Ishang22/Node_TypeScript
 
-10. For image storage i use local storage in images folder
+11. For image storage i use local storage in images folder
 
